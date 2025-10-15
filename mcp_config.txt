@@ -1,0 +1,12 @@
+{
+"inputs": [
+],
+"servers": {
+      "research-mcp": {
+         "command": "/opt/anaconda3/bin/python",
+         "args": [
+            "research_1_todo.py"
+         ]
+      }
+}
+}
