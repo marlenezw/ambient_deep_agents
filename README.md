@@ -229,17 +229,12 @@ This is a research and educational project. Contributions that enhance the learn
 - **Integration Examples**: Additional Azure AI services
 - **Performance Optimizations**: Efficiency improvements
 
-## 📄 License
-
-[Specify your license here]
-
 ## 🔗 Resources
 
 - [LangChain Documentation](https://python.langchain.com/)
+- [LangChain Azure Repository](https://github.com/langchain-ai/langchain-azure)
 - [Azure AI Foundry](https://azure.microsoft.com/en-us/products/ai-foundry)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
 - [LangGraph Framework](https://langchain-ai.github.io/langgraph/)
 
 ---
-
-*This project demonstrates advanced AI agent patterns for production deployment using Azure AI Foundry and LangChain. Each research component builds practical skills for building sophisticated, reliable AI systems.*
